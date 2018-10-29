@@ -47,7 +47,7 @@ FlashLine results
 #. Activate the :guilabel:`Measure` vertical sub-tab on the right of :guilabel:`Test Configuration`.
 #. The last entry is :guilabel:`Summary`. This is the grand-summary of all diffusivities contained in the test.
    It is thus quite complex to navigate.
-#. Right-click on the :guilabel:`Summary` and select the :menuselection:`Detach` action.
+#. Right-click on :guilabel:`Summary` and select the :menuselection:`Detach` action.
 #. The same table will open in a new, enlargeable table. Column headers contain the sample name and the diffusivity type.
 #. Right-click on the header and select :menuselection:`Rotate` for a more confortable view. 
 #. Read :ref:`option_table` for more controls.
@@ -130,11 +130,11 @@ Most common task on a shot plot is zooming in and out. There are several ways.
 #. Click on the left-most white arrow to exit from the zooming tool.
 #. Click on |zoomout| toolbar button to reset all axes ranges to automatic.
 
-Another method is by selecting an ax, then use the internal black square handles to move the ax range wherever you like.
+Another method is by selecting an axis, then use the internal black square handles to move the axis range wherever you like.
 Instead, if you need to precisely set axes ranges:
 
-#. Select the ax.
-#. Activate :guilabel:`Navigator` vertical tab in :guilabel:`Test Configuration`, then :guilabel:`Formatting` horizontal tab. 
+#. Select the axis.
+#. Activate :guilabel:`Navigator` vertical tab in :guilabel:`Test Configuration`, then :guilabel:`Properties` horizontal tab. 
 #. Set :guilabel:`Min` and :guilabel:`Max` according to your needs.
 
 Browsing plots
